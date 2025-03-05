@@ -8,6 +8,10 @@
 ### 🔥 About Me  
 - 🎯 Currently working on [Treasure Hunt Gaming Application](https://treasure-hunt-ebon.vercel.app/home) – A thrilling game that enhances user engagement with dynamic gameplay.
 - 📚 Currently enhancing my skills in **React.js**.
+- 🎓 **Education:**  
+  - **B.Tech in Electronics and Communication Engineering**  
+  - **Jayamukhi Institute of Technological Sciences, Warangal**  
+  - **Secured CGPA:** **7.98**
 - 💬 Ask me about **Java, SQL, .NET, and Mobile App Development**.
 - 📩 Reach out at **mammusherla13@gmail.com**.
 
